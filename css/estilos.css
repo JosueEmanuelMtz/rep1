@@ -1,0 +1,15 @@
+body{
+    
+background-image: url("https://media.istockphoto.com/photos/brick-wall-painted-with-pale-blue-paint-pastel-calm-tone-texture-picture-id1073505356?k=20&m=1073505356&s=170667a&w=0&h=iOKB9p6AtXAdlpr4lDXah7EzzMvVpf0nwjyOXNexNh0=");
+width: 100%;
+}
+
+.h1josue{
+    color:blue;
+}
+
+.botton1{
+background: rgb(139, 210, 231);
+color: rgb(241, 217, 214);
+margin-left:100px;
+}
